@@ -31,7 +31,7 @@ Check out the **[official website](https://connekthq.com/easy-query/)** for more
 
 Easy Query accepts a number of parameters that are passed to the WordPress query via shortcode.
  
-*   **container** - Select the type of container that will wrap your Easy Query templates (<ul>, <ol>, <div>). Default = ‘<ul>’
+*   **container** - Select the type of HTML container that will wrap your Easy Query templates. Default = < ul >
 *   **classes** - Target your content by adding custom classes to the container. Default = null
 *   **template** - Select which template you would like to use. Default = ‘default’
 *   **post_type** - Comma separated list of post types. Default = ‘post’
