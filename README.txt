@@ -8,11 +8,11 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create complex WordPress queries in seconds - it's that easy!
+Easy Query is the fastest and simplest way to build WordPress queries without ever touching a single line of code.
 
 == Description ==
 
-Easy Query is the fastest and simplest way to build WordPress queries without ever touching a single line of code. Create complex queries using our Custom Query Builder then add the generated shortcode to your pages via the content editor or directly into your template files using our WP_Query Generator.
+Create complex queries using our Custom Query Builder then add the generated shortcode to your pages via the content editor or directly into your template files using our WP_Query Generator.
 
 
 = Features =
