@@ -1,9 +1,9 @@
 === Easy Query ===
 Contributors: dcooney
 Donate link: https://connekthq.com/donate/
-Tags: query, query builder, wp_query, save query, query generator, generator, paging, paged, shortcode builder, shortcode, tags, category, post types, taxonomy, meta_query, post format, archives
+Tags: query, query builder, wp_query, save query, query generator, generator, paging, paged, shortcode builder, shortcode, tags, category, post types, taxonomy, meta_query
 Requires at least: 3.7
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
