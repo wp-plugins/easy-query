@@ -1,7 +1,7 @@
 === Easy Query ===
 Contributors: dcooney
 Donate link: https://connekthq.com/donate/
-Tags: query, builder, wp_query, easy, simple, save, saving query, generator, paging, paged, query builder, shortcode builder, shortcode, search, tags, category, post types, taxonomy, meta_query, post format, wmpl, archives, date
+Tags: query, query builder, wp_query, save query, query generator, generator, paging, paged, shortcode builder, shortcode, tags, category, post types, taxonomy, meta_query, post format, archives
 Requires at least: 3.7
 Tested up to: 4.1.1
 Stable tag: 1.0.0
