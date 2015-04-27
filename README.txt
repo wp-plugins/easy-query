@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easy Query is the fastest and simplest way to build WordPress queries without ever touching a single line of code.
+Easy Query is the fastest and simplest way to build WordPress queries without touching a single line of code.
 
 == Description ==
 
